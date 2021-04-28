@@ -5,6 +5,84 @@ font-family:  Verdana;
 color:  #FFF;
 }
 
+h1{
+    text-align: center;
+}
+
+#felsoszoveg{
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: justify;
+}
+
+h3{
+    font-size: 130%;
+}
+
+img{
+    height: 200px;
+    float: right;
+
+}
 
 
+#tiszato p{
+    text-align: justify;
+    margin-right: 400px;
+}
 
+#vadasto p{
+    text-align: justify;
+    margin-right: 400px;
+}
+
+#pecsito p{
+    text-align: justify;
+    margin-right: 400px;    
+}
+
+#bankito p{
+    text-align: justify;
+    margin-right: 400px;
+}
+
+#bankito img{
+    width: 300px;
+}
+
+p{
+    text-align: justify;
+}
+
+div{
+    width: 70%;
+    margin: auto;
+}
+
+ul{
+    list-style-type: none; /*Leveszi a lista jelölőket*/
+    padding: 0;
+    overflow: hidden;
+}
+
+li{
+    display: inline; /*Egy sorba teszi a menüpontokat*/
+}
+
+li a {
+    background-color: rgb(9, 75, 20);
+    color: white;
+    text-align: center;
+    padding: 40px 50px;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    background-color: white;
+    color: rgb(9, 75, 20);
+}
+
+header{
+    margin-left: 13%;
+}
